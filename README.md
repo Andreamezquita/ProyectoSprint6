@@ -21,5 +21,5 @@ Para ejecutar el proyecto ejecuta lo siguiente:
 ```bash
 streamlit run app.py
 ```
-Link a mi proyecto en render.
-https://s5-herramientas-desarrollo-software.onrender.com
+Link a mi proyecto (no en render por problemas de la página).
+http://192.168.100.118:10000/
